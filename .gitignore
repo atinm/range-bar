@@ -8,3 +8,7 @@
 ./bin
 ./libs
 ./gen
+project.properties
+.classpath
+.project
+./.settings
